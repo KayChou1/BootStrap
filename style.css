@@ -1,0 +1,38 @@
+.btn-danger{
+    color: black;
+
+}
+
+
+
+.btn-primary{
+    color:black;
+
+}
+
+.btn-success{
+    color: black;
+}
+
+.container{
+    background-color: grey
+}
+
+.row{
+    border: 1px solid black;
+    border-top-style: hidden;
+    
+}
+
+.allCol{
+    border: 1px solid black;
+    border-top-style: hidden;
+    
+}
+
+.navbar-dark{
+    background-color: rebeccapurple;
+
+
+}   
+
